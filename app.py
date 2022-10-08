@@ -3,7 +3,7 @@
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
-st.beta_set_page_config(page_title='heart disease prediction',page_icon=':heart:')
+
 
 
 # loading the saved models
